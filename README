@@ -1,0 +1,9 @@
+This project is a demo to show use viewpager in fragment 
+
+it will show this :
+viewpager->fragment
+back
+fragment->viewpager
+
+normally,There hide a error ,so I do this.
+
